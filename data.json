@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Eugene Crab",
+    "email": "Crab@gmail.com",
+    "photo_url": "Crab.png"
+  },
+  {
+    "name": "Patrick Star",
+    "email": "Patrick@gmail.com",
+    "photo_url": "Pat.png"
+  },
+  {
+    "name": "Plankton",
+    "email": "Plankton@gmail.com",
+    "photo_url": "Plank.png"
+  },
+  {
+    "name": "Sandy",
+    "email": "Sandy@gmail.com",
+    "photo_url": "Sandy.png"
+  },
+  {
+    "name": "Spongebob",
+    "email": "Spongebob@gmail.com",
+    "photo_url": "sponge.png"
+  },
+  {
+    "name": "Squidward",
+    "email": "Squid@gmail.com",
+    "photo_url": "Squid.png"
+  },
+  {
+    "name": "Yanto",
+    "email": "Yanto@gmail.com",
+    "photo_url": "Yanto.png"
+  },
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "name": "Bob Brown",
+    "email": "bobbrown@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/2.jpg"
+  }
+]
